@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta content="text/html; charset=ISO-8859-1"
+ http-equiv="content-type">
+  <title></title>
+</head>
+<body>
+<ul id="menu">
+	<li>
+		<a href="#">АКТЁРЫ</a>
+		<ul>
+			<li>
+			</li>
+			<li>
+			</li>
+		</ul>
+	<li>
+	<li>
+		<a href="#">Красивые</a>
+		<ul>
+			<li>
+				<a href="#">Оскар Айзек</a>
+			</li>
+			<li>
+			</li>
+		</ul>
+	<li>
+	<li>
+		<a href="#">Не очень</a>
+		<ul>
+			<li>
+				<a href="#">Дилан ОБрайан</a>
+			</li>
+			<li>
+			</li>
+		</ul>
+	<li>
+	<li>
+		
+<br>
+</body>
+</html>
